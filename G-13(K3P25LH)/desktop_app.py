@@ -1,14 +1,3 @@
-"""
-desktop_app.py
-==============
-Quantum-Inspired Traffic Flow Router Pro.
-- iPhone Liquid Glass Design: Rounded location inputs, rounded run button, rounded map corners.
-- True 4K / Retina Native Hardware Clarity on Windows (Per-Monitor V2 High-DPI).
-- Built-in Interactive Google Maps-style Slippy Map with multi-level dynamic zoom.
-- Real satellite and street tile loading, drag-to-pan, and on-screen zoom controls.
-- 100% Real Infrastructure Data (Zero synthetic sliders/bars).
-"""
-
 import sys, os, io, math, threading, queue
 import urllib.request, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
